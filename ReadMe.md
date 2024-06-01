@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- SYC
 - Seychelles
 - سيشيل
 - 塞舌尔
