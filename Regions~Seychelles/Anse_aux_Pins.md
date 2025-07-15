@@ -40,11 +40,18 @@ markerFolder: ./Anse_aux_Pins/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins|Anse_aux_Pins]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.public|Anse_aux_Pins.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.internal|Anse_aux_Pins.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.protect|Anse_aux_Pins.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.private|Anse_aux_Pins.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.personal|Anse_aux_Pins.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Anse_aux_Pins.secret|Anse_aux_Pins.secret]] 
+
+### #is_/same_as :: [Anse_aux_Pins](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_aux_Pins.md) 
+
+### #is_/same_as :: [Anse_aux_Pins.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_aux_Pins.public.md) 
+
+### #is_/same_as :: [Anse_aux_Pins.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_aux_Pins.internal.md) 
+
+### #is_/same_as :: [Anse_aux_Pins.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_aux_Pins.protect.md) 
+
+### #is_/same_as :: [Anse_aux_Pins.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_aux_Pins.private.md) 
+
+### #is_/same_as :: [Anse_aux_Pins.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_aux_Pins.personal.md) 
+
+### #is_/same_as :: [Anse_aux_Pins.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_aux_Pins.secret.md)
 

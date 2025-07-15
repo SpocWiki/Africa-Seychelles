@@ -40,11 +40,18 @@ markerFolder: ./Au_Cap/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Au_Cap|Au_Cap]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Au_Cap.public|Au_Cap.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Au_Cap.internal|Au_Cap.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Au_Cap.protect|Au_Cap.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Au_Cap.private|Au_Cap.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Au_Cap.personal|Au_Cap.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Au_Cap.secret|Au_Cap.secret]] 
+
+### #is_/same_as :: [Au_Cap](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.md) 
+
+### #is_/same_as :: [Au_Cap.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.public.md) 
+
+### #is_/same_as :: [Au_Cap.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.internal.md) 
+
+### #is_/same_as :: [Au_Cap.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.protect.md) 
+
+### #is_/same_as :: [Au_Cap.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.private.md) 
+
+### #is_/same_as :: [Au_Cap.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.personal.md) 
+
+### #is_/same_as :: [Au_Cap.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.secret.md)
 

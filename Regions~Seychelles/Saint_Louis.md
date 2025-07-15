@@ -40,11 +40,18 @@ markerFolder: ./Saint_Louis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Saint_Louis|Saint_Louis]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Saint_Louis.public|Saint_Louis.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Saint_Louis.internal|Saint_Louis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Saint_Louis.protect|Saint_Louis.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Saint_Louis.private|Saint_Louis.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Saint_Louis.personal|Saint_Louis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Saint_Louis.secret|Saint_Louis.secret]] 
+
+### #is_/same_as :: [Saint_Louis](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.md) 
+
+### #is_/same_as :: [Saint_Louis.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.public.md) 
+
+### #is_/same_as :: [Saint_Louis.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.internal.md) 
+
+### #is_/same_as :: [Saint_Louis.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.protect.md) 
+
+### #is_/same_as :: [Saint_Louis.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.private.md) 
+
+### #is_/same_as :: [Saint_Louis.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.personal.md) 
+
+### #is_/same_as :: [Saint_Louis.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.secret.md)
 

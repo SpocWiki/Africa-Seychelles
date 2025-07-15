@@ -40,11 +40,18 @@ markerFolder: ./Port_Glaud/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Port_Glaud|Port_Glaud]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Port_Glaud.public|Port_Glaud.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Port_Glaud.internal|Port_Glaud.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Port_Glaud.protect|Port_Glaud.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Port_Glaud.private|Port_Glaud.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Port_Glaud.personal|Port_Glaud.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Port_Glaud.secret|Port_Glaud.secret]] 
+
+### #is_/same_as :: [Port_Glaud](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.md) 
+
+### #is_/same_as :: [Port_Glaud.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.public.md) 
+
+### #is_/same_as :: [Port_Glaud.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.internal.md) 
+
+### #is_/same_as :: [Port_Glaud.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.protect.md) 
+
+### #is_/same_as :: [Port_Glaud.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.private.md) 
+
+### #is_/same_as :: [Port_Glaud.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.personal.md) 
+
+### #is_/same_as :: [Port_Glaud.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.secret.md)
 

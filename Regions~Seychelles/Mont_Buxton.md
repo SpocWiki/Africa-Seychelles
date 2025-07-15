@@ -40,11 +40,18 @@ markerFolder: ./Mont_Buxton/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton|Mont_Buxton]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.public|Mont_Buxton.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.internal|Mont_Buxton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.protect|Mont_Buxton.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.private|Mont_Buxton.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.personal|Mont_Buxton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Mont_Buxton.secret|Mont_Buxton.secret]] 
+
+### #is_/same_as :: [Mont_Buxton](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Buxton.md) 
+
+### #is_/same_as :: [Mont_Buxton.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Buxton.public.md) 
+
+### #is_/same_as :: [Mont_Buxton.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Buxton.internal.md) 
+
+### #is_/same_as :: [Mont_Buxton.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Buxton.protect.md) 
+
+### #is_/same_as :: [Mont_Buxton.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Buxton.private.md) 
+
+### #is_/same_as :: [Mont_Buxton.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Buxton.personal.md) 
+
+### #is_/same_as :: [Mont_Buxton.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Buxton.secret.md)
 

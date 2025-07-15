@@ -40,11 +40,18 @@ markerFolder: ./Outer_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Outer_Islands|Outer_Islands]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Outer_Islands.public|Outer_Islands.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Outer_Islands.internal|Outer_Islands.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Outer_Islands.protect|Outer_Islands.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Outer_Islands.private|Outer_Islands.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Outer_Islands.personal|Outer_Islands.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Outer_Islands.secret|Outer_Islands.secret]] 
+
+### #is_/same_as :: [Outer_Islands](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Outer_Islands.md) 
+
+### #is_/same_as :: [Outer_Islands.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Outer_Islands.public.md) 
+
+### #is_/same_as :: [Outer_Islands.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Outer_Islands.internal.md) 
+
+### #is_/same_as :: [Outer_Islands.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Outer_Islands.protect.md) 
+
+### #is_/same_as :: [Outer_Islands.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Outer_Islands.private.md) 
+
+### #is_/same_as :: [Outer_Islands.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Outer_Islands.personal.md) 
+
+### #is_/same_as :: [Outer_Islands.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Outer_Islands.secret.md)
 

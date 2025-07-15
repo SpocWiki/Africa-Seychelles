@@ -40,11 +40,18 @@ markerFolder: ./Takamaka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Takamaka|Takamaka]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Takamaka.public|Takamaka.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Takamaka.internal|Takamaka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Takamaka.protect|Takamaka.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Takamaka.private|Takamaka.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Takamaka.personal|Takamaka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Takamaka.secret|Takamaka.secret]] 
+
+### #is_/same_as :: [Takamaka](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Takamaka.md) 
+
+### #is_/same_as :: [Takamaka.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Takamaka.public.md) 
+
+### #is_/same_as :: [Takamaka.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Takamaka.internal.md) 
+
+### #is_/same_as :: [Takamaka.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Takamaka.protect.md) 
+
+### #is_/same_as :: [Takamaka.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Takamaka.private.md) 
+
+### #is_/same_as :: [Takamaka.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Takamaka.personal.md) 
+
+### #is_/same_as :: [Takamaka.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Takamaka.secret.md)
 

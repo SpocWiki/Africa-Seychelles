@@ -40,11 +40,18 @@ markerFolder: ./Beau_Vallon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Beau_Vallon|Beau_Vallon]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Beau_Vallon.public|Beau_Vallon.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Beau_Vallon.internal|Beau_Vallon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Beau_Vallon.protect|Beau_Vallon.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Beau_Vallon.private|Beau_Vallon.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Beau_Vallon.personal|Beau_Vallon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Beau_Vallon.secret|Beau_Vallon.secret]] 
+
+### #is_/same_as :: [Beau_Vallon](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Beau_Vallon.md) 
+
+### #is_/same_as :: [Beau_Vallon.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Beau_Vallon.public.md) 
+
+### #is_/same_as :: [Beau_Vallon.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Beau_Vallon.internal.md) 
+
+### #is_/same_as :: [Beau_Vallon.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Beau_Vallon.protect.md) 
+
+### #is_/same_as :: [Beau_Vallon.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Beau_Vallon.private.md) 
+
+### #is_/same_as :: [Beau_Vallon.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Beau_Vallon.personal.md) 
+
+### #is_/same_as :: [Beau_Vallon.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Beau_Vallon.secret.md)
 

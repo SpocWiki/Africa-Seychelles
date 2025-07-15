@@ -40,11 +40,18 @@ markerFolder: ./Anse_Royale/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Anse_Royale|Anse_Royale]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Anse_Royale.public|Anse_Royale.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Anse_Royale.internal|Anse_Royale.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Anse_Royale.protect|Anse_Royale.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Anse_Royale.private|Anse_Royale.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Anse_Royale.personal|Anse_Royale.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Anse_Royale.secret|Anse_Royale.secret]] 
+
+### #is_/same_as :: [Anse_Royale](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.md) 
+
+### #is_/same_as :: [Anse_Royale.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.public.md) 
+
+### #is_/same_as :: [Anse_Royale.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.internal.md) 
+
+### #is_/same_as :: [Anse_Royale.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.protect.md) 
+
+### #is_/same_as :: [Anse_Royale.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.private.md) 
+
+### #is_/same_as :: [Anse_Royale.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.personal.md) 
+
+### #is_/same_as :: [Anse_Royale.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.secret.md)
 

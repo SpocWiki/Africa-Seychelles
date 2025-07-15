@@ -130,10 +130,4 @@ Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Seychelles|Seychelles]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Seychelles.internal|Seychelles.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Seychelles.protect|Seychelles.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Seychelles.private|Seychelles.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Seychelles.personal|Seychelles.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Seychelles.secret|Seychelles.secret]] 
+

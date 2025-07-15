@@ -40,11 +40,18 @@ markerFolder: ./Grand'Anse/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Grand'Anse|Grand'Anse]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.public|Grand'Anse.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.internal|Grand'Anse.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.protect|Grand'Anse.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.private|Grand'Anse.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.personal|Grand'Anse.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Grand'Anse.secret|Grand'Anse.secret]] 
+
+### #is_/same_as :: [Grand'Anse](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.md) 
+
+### #is_/same_as :: [Grand'Anse.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.public.md) 
+
+### #is_/same_as :: [Grand'Anse.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.internal.md) 
+
+### #is_/same_as :: [Grand'Anse.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.protect.md) 
+
+### #is_/same_as :: [Grand'Anse.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.private.md) 
+
+### #is_/same_as :: [Grand'Anse.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.personal.md) 
+
+### #is_/same_as :: [Grand'Anse.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.secret.md)
 

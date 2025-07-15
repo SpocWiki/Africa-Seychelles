@@ -40,11 +40,18 @@ markerFolder: ./Pointe_La_Rue/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue|Pointe_La_Rue]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.public|Pointe_La_Rue.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.internal|Pointe_La_Rue.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.protect|Pointe_La_Rue.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.private|Pointe_La_Rue.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.personal|Pointe_La_Rue.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Pointe_La_Rue.secret|Pointe_La_Rue.secret]] 
+
+### #is_/same_as :: [Pointe_La_Rue](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Pointe_La_Rue.md) 
+
+### #is_/same_as :: [Pointe_La_Rue.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Pointe_La_Rue.public.md) 
+
+### #is_/same_as :: [Pointe_La_Rue.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Pointe_La_Rue.internal.md) 
+
+### #is_/same_as :: [Pointe_La_Rue.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Pointe_La_Rue.protect.md) 
+
+### #is_/same_as :: [Pointe_La_Rue.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Pointe_La_Rue.private.md) 
+
+### #is_/same_as :: [Pointe_La_Rue.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Pointe_La_Rue.personal.md) 
+
+### #is_/same_as :: [Pointe_La_Rue.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Pointe_La_Rue.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Baie_Sainte_Anne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne|Baie_Sainte_Anne]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.public|Baie_Sainte_Anne.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.internal|Baie_Sainte_Anne.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.protect|Baie_Sainte_Anne.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.private|Baie_Sainte_Anne.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.personal|Baie_Sainte_Anne.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Baie_Sainte_Anne.secret|Baie_Sainte_Anne.secret]] 
+
+### #is_/same_as :: [Baie_Sainte_Anne](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Sainte_Anne.md) 
+
+### #is_/same_as :: [Baie_Sainte_Anne.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Sainte_Anne.public.md) 
+
+### #is_/same_as :: [Baie_Sainte_Anne.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Sainte_Anne.internal.md) 
+
+### #is_/same_as :: [Baie_Sainte_Anne.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Sainte_Anne.protect.md) 
+
+### #is_/same_as :: [Baie_Sainte_Anne.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Sainte_Anne.private.md) 
+
+### #is_/same_as :: [Baie_Sainte_Anne.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Sainte_Anne.personal.md) 
+
+### #is_/same_as :: [Baie_Sainte_Anne.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Sainte_Anne.secret.md)
 

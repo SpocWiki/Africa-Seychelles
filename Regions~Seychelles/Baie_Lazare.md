@@ -40,11 +40,18 @@ markerFolder: ./Baie_Lazare/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare|Baie_Lazare]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.public|Baie_Lazare.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.internal|Baie_Lazare.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.protect|Baie_Lazare.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.private|Baie_Lazare.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.personal|Baie_Lazare.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Baie_Lazare.secret|Baie_Lazare.secret]] 
+
+### #is_/same_as :: [Baie_Lazare](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.md) 
+
+### #is_/same_as :: [Baie_Lazare.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.public.md) 
+
+### #is_/same_as :: [Baie_Lazare.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.internal.md) 
+
+### #is_/same_as :: [Baie_Lazare.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.protect.md) 
+
+### #is_/same_as :: [Baie_Lazare.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.private.md) 
+
+### #is_/same_as :: [Baie_Lazare.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.personal.md) 
+
+### #is_/same_as :: [Baie_Lazare.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.secret.md)
 

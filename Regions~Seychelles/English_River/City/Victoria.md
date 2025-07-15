@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-4.616667,55.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/City/Victoria|Victoria]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/City/Victoria.public|Victoria.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/City/Victoria.internal|Victoria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/City/Victoria.protect|Victoria.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/City/Victoria.private|Victoria.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/City/Victoria.personal|Victoria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/City/Victoria.secret|Victoria.secret]] 
+
+### #is_/same_as :: [Victoria](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.md) 
+
+### #is_/same_as :: [Victoria.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.public.md) 
+
+### #is_/same_as :: [Victoria.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.internal.md) 
+
+### #is_/same_as :: [Victoria.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.protect.md) 
+
+### #is_/same_as :: [Victoria.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.private.md) 
+
+### #is_/same_as :: [Victoria.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.personal.md) 
+
+### #is_/same_as :: [Victoria.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.secret.md)
+

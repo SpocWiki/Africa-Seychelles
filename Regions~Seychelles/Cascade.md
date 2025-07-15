@@ -40,11 +40,18 @@ markerFolder: ./Cascade/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Cascade|Cascade]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Cascade.public|Cascade.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Cascade.internal|Cascade.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Cascade.protect|Cascade.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Cascade.private|Cascade.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Cascade.personal|Cascade.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Cascade.secret|Cascade.secret]] 
+
+### #is_/same_as :: [Cascade](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Cascade.md) 
+
+### #is_/same_as :: [Cascade.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Cascade.public.md) 
+
+### #is_/same_as :: [Cascade.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Cascade.internal.md) 
+
+### #is_/same_as :: [Cascade.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Cascade.protect.md) 
+
+### #is_/same_as :: [Cascade.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Cascade.private.md) 
+
+### #is_/same_as :: [Cascade.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Cascade.personal.md) 
+
+### #is_/same_as :: [Cascade.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Cascade.secret.md)
 

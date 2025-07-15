@@ -40,11 +40,18 @@ markerFolder: ./English_River/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/English_River|English_River]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/English_River.public|English_River.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/English_River.internal|English_River.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/English_River.protect|English_River.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/English_River.private|English_River.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/English_River.personal|English_River.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/English_River.secret|English_River.secret]] 
+
+### #is_/same_as :: [English_River](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River.md) 
+
+### #is_/same_as :: [English_River.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River.public.md) 
+
+### #is_/same_as :: [English_River.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River.internal.md) 
+
+### #is_/same_as :: [English_River.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River.protect.md) 
+
+### #is_/same_as :: [English_River.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River.private.md) 
+
+### #is_/same_as :: [English_River.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River.personal.md) 
+
+### #is_/same_as :: [English_River.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River.secret.md)
 

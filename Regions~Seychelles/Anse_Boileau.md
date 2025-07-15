@@ -40,11 +40,18 @@ markerFolder: ./Anse_Boileau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau|Anse_Boileau]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.public|Anse_Boileau.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.internal|Anse_Boileau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.protect|Anse_Boileau.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.private|Anse_Boileau.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.personal|Anse_Boileau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Anse_Boileau.secret|Anse_Boileau.secret]] 
+
+### #is_/same_as :: [Anse_Boileau](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Boileau.md) 
+
+### #is_/same_as :: [Anse_Boileau.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Boileau.public.md) 
+
+### #is_/same_as :: [Anse_Boileau.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Boileau.internal.md) 
+
+### #is_/same_as :: [Anse_Boileau.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Boileau.protect.md) 
+
+### #is_/same_as :: [Anse_Boileau.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Boileau.private.md) 
+
+### #is_/same_as :: [Anse_Boileau.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Boileau.personal.md) 
+
+### #is_/same_as :: [Anse_Boileau.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Boileau.secret.md)
 

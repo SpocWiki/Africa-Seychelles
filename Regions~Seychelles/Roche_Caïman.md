@@ -40,11 +40,18 @@ markerFolder: ./Roche_Caïman/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman|Roche_Caïman]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.public|Roche_Caïman.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.internal|Roche_Caïman.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.protect|Roche_Caïman.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.private|Roche_Caïman.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.personal|Roche_Caïman.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Roche_Caïman.secret|Roche_Caïman.secret]] 
+
+### #is_/same_as :: [Roche_Caïman](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Roche_Caïman.md) 
+
+### #is_/same_as :: [Roche_Caïman.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Roche_Caïman.public.md) 
+
+### #is_/same_as :: [Roche_Caïman.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Roche_Caïman.internal.md) 
+
+### #is_/same_as :: [Roche_Caïman.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Roche_Caïman.protect.md) 
+
+### #is_/same_as :: [Roche_Caïman.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Roche_Caïman.private.md) 
+
+### #is_/same_as :: [Roche_Caïman.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Roche_Caïman.personal.md) 
+
+### #is_/same_as :: [Roche_Caïman.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Roche_Caïman.secret.md)
 

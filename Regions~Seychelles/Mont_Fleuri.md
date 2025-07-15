@@ -40,11 +40,18 @@ markerFolder: ./Mont_Fleuri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri|Mont_Fleuri]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.public|Mont_Fleuri.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.internal|Mont_Fleuri.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.protect|Mont_Fleuri.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.private|Mont_Fleuri.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.personal|Mont_Fleuri.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Mont_Fleuri.secret|Mont_Fleuri.secret]] 
+
+### #is_/same_as :: [Mont_Fleuri](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.md) 
+
+### #is_/same_as :: [Mont_Fleuri.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.public.md) 
+
+### #is_/same_as :: [Mont_Fleuri.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.internal.md) 
+
+### #is_/same_as :: [Mont_Fleuri.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.protect.md) 
+
+### #is_/same_as :: [Mont_Fleuri.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.private.md) 
+
+### #is_/same_as :: [Mont_Fleuri.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.personal.md) 
+
+### #is_/same_as :: [Mont_Fleuri.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.secret.md)
 

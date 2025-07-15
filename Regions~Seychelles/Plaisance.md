@@ -40,11 +40,18 @@ markerFolder: ./Plaisance/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Seychelles/Counties/Plaisance|Plaisance]] 
-- [[../../../../../../_public/geo/Continent/Africa/Seychelles/Counties/Plaisance.public|Plaisance.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Seychelles/Counties/Plaisance.internal|Plaisance.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Seychelles/Counties/Plaisance.protect|Plaisance.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Seychelles/Counties/Plaisance.private|Plaisance.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Seychelles/Counties/Plaisance.personal|Plaisance.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Seychelles/Counties/Plaisance.secret|Plaisance.secret]] 
+
+### #is_/same_as :: [Plaisance](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.md) 
+
+### #is_/same_as :: [Plaisance.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.public.md) 
+
+### #is_/same_as :: [Plaisance.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.internal.md) 
+
+### #is_/same_as :: [Plaisance.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.protect.md) 
+
+### #is_/same_as :: [Plaisance.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.private.md) 
+
+### #is_/same_as :: [Plaisance.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.personal.md) 
+
+### #is_/same_as :: [Plaisance.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.secret.md)
 
