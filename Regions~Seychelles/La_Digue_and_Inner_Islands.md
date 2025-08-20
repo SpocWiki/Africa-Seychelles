@@ -1,30 +1,29 @@
 ---
-location: [ -4.47 , 55.24 ] 
+location:
+  - -4.47
+  - 55.24
 type: geo-Region
 title: La_Digue_and_Inner_Islands
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- La_Digue_and_Inner_Islands
-
+  - La_Digue_and_Inner_Islands
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # La_Digue_and_Inner_Islands
