@@ -40,17 +40,17 @@ markerFolder: ./Mont_Fleuri/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mont_Fleuri](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri|Mont_Fleuri]] 
 
-### #is_/same_as :: [Mont_Fleuri.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.public|Mont_Fleuri.public]] 
 
-### #is_/same_as :: [Mont_Fleuri.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.internal|Mont_Fleuri.internal]] 
 
-### #is_/same_as :: [Mont_Fleuri.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.protect|Mont_Fleuri.protect]] 
 
-### #is_/same_as :: [Mont_Fleuri.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.private|Mont_Fleuri.private]] 
 
-### #is_/same_as :: [Mont_Fleuri.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.personal|Mont_Fleuri.personal]] 
 
-### #is_/same_as :: [Mont_Fleuri.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mont_Fleuri.secret|Mont_Fleuri.secret]] 
 

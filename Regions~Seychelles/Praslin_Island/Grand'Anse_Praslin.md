@@ -40,17 +40,17 @@ markerFolder: ./Grand'Anse_Praslin/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grand'Anse_Praslin](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse_Praslin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Praslin_Island/Grand'Anse_Praslin|Grand'Anse_Praslin]] 
 
-### #is_/same_as :: [Grand'Anse_Praslin.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse_Praslin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Praslin_Island/Grand'Anse_Praslin.public|Grand'Anse_Praslin.public]] 
 
-### #is_/same_as :: [Grand'Anse_Praslin.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse_Praslin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Praslin_Island/Grand'Anse_Praslin.internal|Grand'Anse_Praslin.internal]] 
 
-### #is_/same_as :: [Grand'Anse_Praslin.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse_Praslin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Praslin_Island/Grand'Anse_Praslin.protect|Grand'Anse_Praslin.protect]] 
 
-### #is_/same_as :: [Grand'Anse_Praslin.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse_Praslin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Praslin_Island/Grand'Anse_Praslin.private|Grand'Anse_Praslin.private]] 
 
-### #is_/same_as :: [Grand'Anse_Praslin.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse_Praslin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Praslin_Island/Grand'Anse_Praslin.personal|Grand'Anse_Praslin.personal]] 
 
-### #is_/same_as :: [Grand'Anse_Praslin.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse_Praslin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Praslin_Island/Grand'Anse_Praslin.secret|Grand'Anse_Praslin.secret]] 
 

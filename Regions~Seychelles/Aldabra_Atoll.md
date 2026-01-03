@@ -27,3 +27,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aldabra) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Aldabra_Atoll|Aldabra_Atoll]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Aldabra_Atoll.public|Aldabra_Atoll.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Aldabra_Atoll.internal|Aldabra_Atoll.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Aldabra_Atoll.protect|Aldabra_Atoll.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Aldabra_Atoll.private|Aldabra_Atoll.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Aldabra_Atoll.personal|Aldabra_Atoll.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Aldabra_Atoll.secret|Aldabra_Atoll.secret]] 
+

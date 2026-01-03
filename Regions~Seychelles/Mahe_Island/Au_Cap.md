@@ -40,17 +40,17 @@ markerFolder: ./Au_Cap/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Au_Cap](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Au_Cap|Au_Cap]] 
 
-### #is_/same_as :: [Au_Cap.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Au_Cap.public|Au_Cap.public]] 
 
-### #is_/same_as :: [Au_Cap.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Au_Cap.internal|Au_Cap.internal]] 
 
-### #is_/same_as :: [Au_Cap.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Au_Cap.protect|Au_Cap.protect]] 
 
-### #is_/same_as :: [Au_Cap.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Au_Cap.private|Au_Cap.private]] 
 
-### #is_/same_as :: [Au_Cap.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Au_Cap.personal|Au_Cap.personal]] 
 
-### #is_/same_as :: [Au_Cap.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Au_Cap.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Au_Cap.secret|Au_Cap.secret]] 
 

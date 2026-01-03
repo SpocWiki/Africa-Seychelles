@@ -40,17 +40,17 @@ markerFolder: ./Grand'Anse/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grand'Anse](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Grand'Anse|Grand'Anse]] 
 
-### #is_/same_as :: [Grand'Anse.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Grand'Anse.public|Grand'Anse.public]] 
 
-### #is_/same_as :: [Grand'Anse.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Grand'Anse.internal|Grand'Anse.internal]] 
 
-### #is_/same_as :: [Grand'Anse.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Grand'Anse.protect|Grand'Anse.protect]] 
 
-### #is_/same_as :: [Grand'Anse.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Grand'Anse.private|Grand'Anse.private]] 
 
-### #is_/same_as :: [Grand'Anse.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Grand'Anse.personal|Grand'Anse.personal]] 
 
-### #is_/same_as :: [Grand'Anse.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Grand'Anse.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Grand'Anse.secret|Grand'Anse.secret]] 
 

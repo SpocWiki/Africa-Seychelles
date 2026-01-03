@@ -40,17 +40,17 @@ markerFolder: ./Baie_Lazare/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baie_Lazare](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Baie_Lazare|Baie_Lazare]] 
 
-### #is_/same_as :: [Baie_Lazare.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Baie_Lazare.public|Baie_Lazare.public]] 
 
-### #is_/same_as :: [Baie_Lazare.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Baie_Lazare.internal|Baie_Lazare.internal]] 
 
-### #is_/same_as :: [Baie_Lazare.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Baie_Lazare.protect|Baie_Lazare.protect]] 
 
-### #is_/same_as :: [Baie_Lazare.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Baie_Lazare.private|Baie_Lazare.private]] 
 
-### #is_/same_as :: [Baie_Lazare.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Baie_Lazare.personal|Baie_Lazare.personal]] 
 
-### #is_/same_as :: [Baie_Lazare.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Baie_Lazare.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Baie_Lazare.secret|Baie_Lazare.secret]] 
 

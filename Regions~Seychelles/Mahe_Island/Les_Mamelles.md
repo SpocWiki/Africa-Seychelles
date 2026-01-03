@@ -40,17 +40,17 @@ markerFolder: ./Les_Mamelles/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Les_Mamelles](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Les_Mamelles.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Les_Mamelles|Les_Mamelles]] 
 
-### #is_/same_as :: [Les_Mamelles.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Les_Mamelles.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Les_Mamelles.public|Les_Mamelles.public]] 
 
-### #is_/same_as :: [Les_Mamelles.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Les_Mamelles.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Les_Mamelles.internal|Les_Mamelles.internal]] 
 
-### #is_/same_as :: [Les_Mamelles.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Les_Mamelles.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Les_Mamelles.protect|Les_Mamelles.protect]] 
 
-### #is_/same_as :: [Les_Mamelles.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Les_Mamelles.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Les_Mamelles.private|Les_Mamelles.private]] 
 
-### #is_/same_as :: [Les_Mamelles.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Les_Mamelles.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Les_Mamelles.personal|Les_Mamelles.personal]] 
 
-### #is_/same_as :: [Les_Mamelles.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Les_Mamelles.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Les_Mamelles.secret|Les_Mamelles.secret]] 
 

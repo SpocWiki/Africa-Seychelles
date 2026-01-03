@@ -40,17 +40,17 @@ markerFolder: ./Plaisance/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plaisance](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Plaisance|Plaisance]] 
 
-### #is_/same_as :: [Plaisance.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Plaisance.public|Plaisance.public]] 
 
-### #is_/same_as :: [Plaisance.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Plaisance.internal|Plaisance.internal]] 
 
-### #is_/same_as :: [Plaisance.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Plaisance.protect|Plaisance.protect]] 
 
-### #is_/same_as :: [Plaisance.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Plaisance.private|Plaisance.private]] 
 
-### #is_/same_as :: [Plaisance.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Plaisance.personal|Plaisance.personal]] 
 
-### #is_/same_as :: [Plaisance.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Plaisance.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Plaisance.secret|Plaisance.secret]] 
 

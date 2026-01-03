@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Victoria](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/English_River/City/Victoria|Victoria]] 
 
-### #is_/same_as :: [Victoria.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/English_River/City/Victoria.public|Victoria.public]] 
 
-### #is_/same_as :: [Victoria.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/English_River/City/Victoria.internal|Victoria.internal]] 
 
-### #is_/same_as :: [Victoria.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/English_River/City/Victoria.protect|Victoria.protect]] 
 
-### #is_/same_as :: [Victoria.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/English_River/City/Victoria.private|Victoria.private]] 
 
-### #is_/same_as :: [Victoria.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/English_River/City/Victoria.personal|Victoria.personal]] 
 
-### #is_/same_as :: [Victoria.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/English_River/City/Victoria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/English_River/City/Victoria.secret|Victoria.secret]] 
 

@@ -49,3 +49,20 @@ Commons_category: Victoria (Seychelles)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Victoria,%20Seychelles) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Victoria,Seychelles|Victoria,Seychelles]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Victoria,Seychelles.public|Victoria,Seychelles.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Victoria,Seychelles.internal|Victoria,Seychelles.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Victoria,Seychelles.protect|Victoria,Seychelles.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Victoria,Seychelles.private|Victoria,Seychelles.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Victoria,Seychelles.personal|Victoria,Seychelles.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Victoria,Seychelles.secret|Victoria,Seychelles.secret]] 
+

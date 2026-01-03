@@ -40,17 +40,17 @@ markerFolder: ./Port_Glaud/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Port_Glaud](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Port_Glaud|Port_Glaud]] 
 
-### #is_/same_as :: [Port_Glaud.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Port_Glaud.public|Port_Glaud.public]] 
 
-### #is_/same_as :: [Port_Glaud.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Port_Glaud.internal|Port_Glaud.internal]] 
 
-### #is_/same_as :: [Port_Glaud.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Port_Glaud.protect|Port_Glaud.protect]] 
 
-### #is_/same_as :: [Port_Glaud.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Port_Glaud.private|Port_Glaud.private]] 
 
-### #is_/same_as :: [Port_Glaud.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Port_Glaud.personal|Port_Glaud.personal]] 
 
-### #is_/same_as :: [Port_Glaud.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Port_Glaud.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Port_Glaud.secret|Port_Glaud.secret]] 
 

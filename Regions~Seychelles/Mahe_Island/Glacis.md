@@ -40,17 +40,17 @@ markerFolder: ./Glacis/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glacis](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Glacis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Glacis|Glacis]] 
 
-### #is_/same_as :: [Glacis.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Glacis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Glacis.public|Glacis.public]] 
 
-### #is_/same_as :: [Glacis.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Glacis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Glacis.internal|Glacis.internal]] 
 
-### #is_/same_as :: [Glacis.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Glacis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Glacis.protect|Glacis.protect]] 
 
-### #is_/same_as :: [Glacis.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Glacis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Glacis.private|Glacis.private]] 
 
-### #is_/same_as :: [Glacis.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Glacis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Glacis.personal|Glacis.personal]] 
 
-### #is_/same_as :: [Glacis.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Glacis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Glacis.secret|Glacis.secret]] 
 

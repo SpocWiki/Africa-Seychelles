@@ -40,17 +40,17 @@ markerFolder: ./Bel_Air/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bel_Air](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Bel_Air.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Bel_Air|Bel_Air]] 
 
-### #is_/same_as :: [Bel_Air.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Bel_Air.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Bel_Air.public|Bel_Air.public]] 
 
-### #is_/same_as :: [Bel_Air.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Bel_Air.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Bel_Air.internal|Bel_Air.internal]] 
 
-### #is_/same_as :: [Bel_Air.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Bel_Air.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Bel_Air.protect|Bel_Air.protect]] 
 
-### #is_/same_as :: [Bel_Air.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Bel_Air.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Bel_Air.private|Bel_Air.private]] 
 
-### #is_/same_as :: [Bel_Air.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Bel_Air.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Bel_Air.personal|Bel_Air.personal]] 
 
-### #is_/same_as :: [Bel_Air.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Bel_Air.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Bel_Air.secret|Bel_Air.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Anse_Royale/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anse_Royale](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Anse_Royale|Anse_Royale]] 
 
-### #is_/same_as :: [Anse_Royale.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Anse_Royale.public|Anse_Royale.public]] 
 
-### #is_/same_as :: [Anse_Royale.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Anse_Royale.internal|Anse_Royale.internal]] 
 
-### #is_/same_as :: [Anse_Royale.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Anse_Royale.protect|Anse_Royale.protect]] 
 
-### #is_/same_as :: [Anse_Royale.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Anse_Royale.private|Anse_Royale.private]] 
 
-### #is_/same_as :: [Anse_Royale.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Anse_Royale.personal|Anse_Royale.personal]] 
 
-### #is_/same_as :: [Anse_Royale.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Anse_Royale.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Anse_Royale.secret|Anse_Royale.secret]] 
 

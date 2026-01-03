@@ -40,17 +40,17 @@ markerFolder: ./Saint_Louis/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_Louis](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Saint_Louis|Saint_Louis]] 
 
-### #is_/same_as :: [Saint_Louis.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Saint_Louis.public|Saint_Louis.public]] 
 
-### #is_/same_as :: [Saint_Louis.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Saint_Louis.internal|Saint_Louis.internal]] 
 
-### #is_/same_as :: [Saint_Louis.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Saint_Louis.protect|Saint_Louis.protect]] 
 
-### #is_/same_as :: [Saint_Louis.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Saint_Louis.private|Saint_Louis.private]] 
 
-### #is_/same_as :: [Saint_Louis.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Saint_Louis.personal|Saint_Louis.personal]] 
 
-### #is_/same_as :: [Saint_Louis.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Saint_Louis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Seychelles/Regions~Seychelles/Mahe_Island/Saint_Louis.secret|Saint_Louis.secret]] 
 
