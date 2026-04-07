@@ -4,19 +4,19 @@ has_id_wikidata: Q3940
 coordinate_location: Point(55.454444444 -4.623611111)
 location: [-4.623611111, 55.454444444]
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Haikou,189823]]"
-  - "[[_Standards/WikiData/WD~Djibouti_City,3604]]"
+  - "[[_Standards/WikiData/WD~Haikou,189823|WD~Haikou,189823]]"
+  - "[[_Standards/WikiData/WD~Djibouti_City,3604|WD~Djibouti_City,3604]]"
 capital_of:
-  - "[[_Standards/WikiData/WD~Mahé,219642]]"
-  - "[[_Standards/WikiData/WD~Republic_of_Seychelles,117089833]]"
-  - "[[_Standards/WikiData/WD~Seychelles,1042]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~city,515]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Seychelles,1042]]"
-country: "[[_Standards/WikiData/WD~Seychelles,1042]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+04_00,6779]]"
-named_after: "[[_Standards/WikiData/WD~Victoria,9439]]"
+  - "[[_Standards/WikiData/WD~Mahé,219642|WD~Mahé,219642]]"
+  - "[[_Standards/WikiData/WD~Republic_of_Seychelles,117089833|WD~Republic_of_Seychelles,117089833]]"
+  - "[[_Standards/WikiData/WD~Seychelles,1042|WD~Seychelles,1042]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+instance_of: "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Seychelles,1042|WD~Seychelles,1042]]"
+country: "[[_Standards/WikiData/WD~Seychelles,1042|WD~Seychelles,1042]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+04_00,6779|WD~UTC+04_00,6779]]"
+named_after: "[[_Standards/WikiData/WD~Victoria,9439|WD~Victoria,9439]]"
 area: 20.1
 population: 24701
 OmegaWiki_Defined_Meaning: "999719"

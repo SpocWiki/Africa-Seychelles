@@ -116,7 +116,7 @@ markerFolder: .//
 [Area-Land::450] 
 Continent :: [[Africa]]  
 [VehicleCode::SY] 
-Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]  
+Capital :: [[../Seychelles/Counties/English_River/City/Victoria|Victoria]]  
 
 ![[Coat_of_arms_of_Seychelles.svg|550]] 
 

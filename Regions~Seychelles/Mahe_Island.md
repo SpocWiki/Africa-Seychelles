@@ -7,7 +7,7 @@ has_id_wikidata: Q219642
 # [[Mahe_Island]]
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mahé,219642]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Mahé,219642|WD~Mahé,219642]]  
 
 ## #has_/text_of_/abstract 
 
