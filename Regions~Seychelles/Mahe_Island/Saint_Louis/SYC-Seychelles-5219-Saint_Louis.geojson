@@ -1,1 +1,2 @@
-﻿{"geometry": {"coordinates": [[[55.44733, -4.62076], [55.43504, -4.63042], [55.43152, -4.62384], [55.43855, -4.61505], [55.44733, -4.62076]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "SYC", "country": "Seychelles", "fill": "#0F0", "id": "5219", "name": "Saint Louis"}, "type": "Feature"}
+{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"SYC","country":"Seychelles","fill":"#0F0","id":"5219","name":"Saint Louis"},
+"geometry":{"type": "Polygon","coordinates": [[[55.44733,-4.62076,19.0668],[55.43855,-4.61505,115.8212],[55.43152,-4.62384,175.3591],[55.43504,-4.63042,542.46],[55.44733,-4.62076,19.0668]]]}}
