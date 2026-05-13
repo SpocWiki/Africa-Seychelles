@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bel_Ombre/
 markerFolder: ./Bel_Ombre/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

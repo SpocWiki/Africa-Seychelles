@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Grand'Anse_Praslin/
 markerFolder: ./Grand'Anse_Praslin/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

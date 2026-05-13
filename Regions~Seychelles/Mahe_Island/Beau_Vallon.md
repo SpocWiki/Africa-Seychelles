@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Beau_Vallon/
 markerFolder: ./Beau_Vallon/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Grand'Anse/
 markerFolder: ./Grand'Anse/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

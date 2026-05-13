@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Pointe_La_Rue/
 markerFolder: ./Pointe_La_Rue/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Anse_Boileau/
 markerFolder: ./Anse_Boileau/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mont_Fleuri/
 markerFolder: ./Mont_Fleuri/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

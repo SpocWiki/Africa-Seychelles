@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Anse_Etoile/
 markerFolder: ./Anse_Etoile/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

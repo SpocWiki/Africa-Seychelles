@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Anse_aux_Pins/
 markerFolder: ./Anse_aux_Pins/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

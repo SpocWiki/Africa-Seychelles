@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Les_Mamelles/
 markerFolder: ./Les_Mamelles/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mont_Buxton/
 markerFolder: ./Mont_Buxton/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Baie_Lazare/
 markerFolder: ./Baie_Lazare/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

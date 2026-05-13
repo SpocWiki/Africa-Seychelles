@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Anse_Royale/
 markerFolder: ./Anse_Royale/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
