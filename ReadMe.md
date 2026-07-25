@@ -224,7 +224,7 @@ office_held_by_head_of_government: '[[/_Standards/WikiData/WD~President_of_Seych
 described_by_source:
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 emergency_phone_number:
@@ -475,7 +475,7 @@ dv_UNTERM_Chinese_Formal: 塞舌尔共和国
 dv_UNTERM_French_Formal: la République des Seychelles
 dv_UNTERM_Russian: Сейшельские Острова
 dv_UNTERM_Russian_Formal: Республика Сейшельские Острова
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -502,7 +502,7 @@ dv_ISO2: SC
 dv_ISO3: SYC
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Seychelles,1042|WD~Seychelles,1042]]'
+  - '[[../../../../../WikiData/WD~Seychelles,1042|WD~Seychelles,1042]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles|Seychelles]]'
   - '[[/_public/Earth/Continent/Africa/Africa~East/Seychelles.public|Seychelles.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~East/Seychelles.internal|Seychelles.internal]]'
@@ -777,16 +777,16 @@ dv_has_:
 dv_has_name_de: Seychellen
 dv_Area-Total: 454
 dv_Area-Land: 450
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: SY
 dv_Alcohol-l: 10.6
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 55.45
 dv_has_place_latitude: -4.61667
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Seychelles,1042|WD~Seychelles,1042]]'
+- '[[../../../../../WikiData/WD~Seychelles,1042|WD~Seychelles,1042]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~East/Seychelles|Seychelles]]'
 - '[[/_public/Earth/Continent/Africa/Africa~East/Seychelles.public|Seychelles.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~East/Seychelles.internal|Seychelles.internal]]'
@@ -873,7 +873,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Mascarene-Islands/Reunion/ReadMe|ReadMe]] 
+[[../Mascarene-Islands/Reunion/ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -893,7 +893,7 @@ defaultZoom: 9
 
 ```leaflet
 id: Seychelles_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -917,13 +917,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[../Seychelles/Counties/English_River/City/Victoria|Victoria]]  
+Capital :: [[../../Seychelles/Counties/English_River/City/Victoria|Victoria]]  
 
-![[Seychelles/Coat_of_arms_of_Seychelles.svg|550]]
+![[Coat_of_arms_of_Seychelles.svg|550]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Seychelles.mp3|Anthem-Seychelles.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Seychelles.mp3|Anthem-Seychelles.mp3]]
 
-![[Seychelles/Flag_of_Seychelles.svg|350]]
+![[Flag_of_Seychelles.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
